@@ -1,0 +1,36 @@
+.navbar-dark .navbar-nav .nav-link {
+
+  color : white;
+
+  font-weight: 400;
+
+}
+
+h1 , h6 {
+
+  color : red;
+
+  text-transform: uppercase;
+
+  font-weight: bold;
+
+}
+
+.about {
+
+  word-spacing: 5px;
+
+}
+
+.icon {
+
+  width : 50px;
+
+}
+
+.accordion-body {
+
+  color : red !important;
+
+}
+
