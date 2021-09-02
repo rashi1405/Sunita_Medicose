@@ -34,3 +34,14 @@ h1 , h6 {
 
 }
 
+@media (min-width: 560px)
+
+{
+
+.header {
+
+  height : 100vh;
+
+}
+
+}
