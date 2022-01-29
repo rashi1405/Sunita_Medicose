@@ -14,6 +14,7 @@ h1 , h6 {
 
   font-weight: bold;
 
+  font-family: 'Quintessential', cursive;
 }
 
 .about {
@@ -22,12 +23,10 @@ h1 , h6 {
 
 }
 
-
 .img-fluid{
   width : 100% !important;
   height: 500px !important ;
 }
-
 
 .icon {
 
