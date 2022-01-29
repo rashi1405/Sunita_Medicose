@@ -20,7 +20,7 @@ body{
   }
   
   .contact div {
-    background-color: grey;
+    background-color: black;
     border : 1px solid lightgrey;
     line-height: 30px;
     text-align: center;
@@ -32,7 +32,7 @@ body{
     font-size:1rem ;
     color:white;
   }
-  
+
 b{
     font-size: 1rem;
 }
@@ -49,7 +49,7 @@ b{
  /* Image */ 
  
 .image img {
-  width : 90%;
+  width : 100%;
   height: 600px;
   margin:auto;
   display:block;
@@ -62,9 +62,9 @@ b{
 
 .fnt{
   text-align: center;
-  color: rgb(223, 57, 57);
-  font-size: 2.2rem;
-  font-style:italic;
+  color:royalblue;
+  font-size: 3rem;
+  font-family: 'Quintessential', cursive;
 }
 
 @media(max-width:600px) {
