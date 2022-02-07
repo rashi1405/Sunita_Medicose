@@ -65,15 +65,17 @@ b{
   color:royalblue;
   font-size: 3rem;
   font-family: 'Quintessential', cursive;
+    
 }
 
 @media(max-width:600px) {
   
 .image img {
-  height: 300px;
+  height: 400px;
 }
 
 .fnt{
   font-size: 1.2rem;
+    font-weigth :bold;
 }
 }
