@@ -5,6 +5,10 @@ body{
     background-color: white;
 }
 
+.navbar{
+  height: 80px !important;
+}
+
 .navbar-dark .navbar-nav .nav-link {
   color : white;
   font-weight: 400;
