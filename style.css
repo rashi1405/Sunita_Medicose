@@ -1,6 +1,4 @@
-.navbar{
-  height: 80px !important;
-}
+
 
 .navbar-dark .navbar-nav .nav-link {
 
@@ -54,4 +52,13 @@ h1 ,h5 , h6 {
 
 }
 
+}
+
+
+@media (min-width: 992px)
+
+{
+.navbar{
+  height: 80px !important;
+}
 }
