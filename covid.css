@@ -64,7 +64,7 @@ b{
   text-align: center;
   color:red;
   font-size: 3rem;
-  font-family: 'Quintessential', cursive;
+  font-style : italic ;
     
 }
 
@@ -75,7 +75,7 @@ b{
 }
 
 .fnt{
-  font-size: 1.2rem;
+  font-size: 1.3rem;
     font-weigth :bold;
 }
 }
