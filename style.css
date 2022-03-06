@@ -25,6 +25,12 @@ h1 ,h5 , h6 {
 
 }
 
+
+.header {
+  height: 500px;
+}
+
+
 .img-fluid{
   width : 100% !important;
   height: 500px !important ;
