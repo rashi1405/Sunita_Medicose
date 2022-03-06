@@ -62,12 +62,22 @@ b{
 
 .fnt{
   text-align: center;
-  color:red;
+  color:white;
   font-size: 3rem;
    margin: 50px 0;
   font-style : italic ;
     
 }
+
+
+.head{
+  width: 100%;
+  background-color: red;
+  padding: 15px;
+  margin-bottom: 50px;
+  color: white;
+}
+
 
 @media(max-width:600px) {
   
