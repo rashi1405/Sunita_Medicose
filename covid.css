@@ -64,7 +64,6 @@ b{
   text-align: center;
   color:white;
   font-size: 3rem;
-   margin: 50px 0;
   font-style : italic ;
     
 }
@@ -73,7 +72,7 @@ b{
 .head{
   width: 100%;
   background-color: red;
-  padding: 12px;
+  padding: 15px;
   margin-bottom: 50px;
   color: white;
 }
