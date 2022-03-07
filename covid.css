@@ -27,9 +27,9 @@ body{
     text-align: center;
     overflow-x: auto;
     box-shadow: 3px 3px 3px lightgray;
-    width : 250px;
+    width : 280px;
     height : 320px;
-    margin: 30px 45px;
+    margin: 30px;
     font-size:1rem ;
     color:white;
   }
@@ -42,7 +42,7 @@ b{
     margin: auto;
     padding: 0;
     display : block;
-    width : 246px;
+    width : 276px;
     height : 180px;
     margin-bottom: 10px;
   }
