@@ -14,7 +14,7 @@ body{
 
 .contact {
     display : flex;
-    justify-content: space-evenly;
+    justify-content: center;
     color : black;
     flex-wrap: wrap;
     text-align: center;
@@ -39,9 +39,10 @@ b{
 }
 
  .contact div img {
-    margin: 0;
+    margin: auto;
     padding: 0;
-    width : 248px;
+    display : block;
+    width : 246px;
     height : 180px;
     margin-bottom: 10px;
   }
