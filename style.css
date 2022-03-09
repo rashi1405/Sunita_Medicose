@@ -1,11 +1,8 @@
-*{
-  font-family: 'Quintessential' !important;
-}
 
 .navbar-brand{
   
   font-weight: bold !important;
-  
+  font-family: 'Quintessential'  !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -23,6 +20,8 @@ h1 ,h5 , h6 {
   text-transform: uppercase;
 
   font-weight: bold;
+  
+   font-family: 'Quintessential' ,cursive  !important;
 
 }
 
