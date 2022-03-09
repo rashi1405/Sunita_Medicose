@@ -3,11 +3,11 @@ body{
     margin: 0;
     padding: 0;
     background-color: white;
+    font-family: 'Quintessential', cursive !important;
 }
 
 .navbar-brand{
   font-weight: bold !important;
-  font-family: 'Quintessential', cursive !important;
 }
 
 
@@ -26,7 +26,7 @@ body{
   }
   
   .contact div {
-    background-color: red ;
+    background-color: white;
     border : 1px solid lightgrey;
     line-height: 30px;
     text-align: center;
@@ -36,7 +36,7 @@ body{
     height : 320px;
     margin: 30px;
     font-size:1rem ;
-    color:white;
+    color:black;
   }
 
 b{
