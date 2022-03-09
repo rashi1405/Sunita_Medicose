@@ -1,12 +1,12 @@
 
 *{
     margin: 0;
-    font-family: 'Quintessential' !important;
-    padding: 0;
+    padding :0;
 }
 
 .navbar-brand{
   font-weight: bold !important;
+  font-family: 'Quintessential'  !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
