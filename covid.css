@@ -5,6 +5,11 @@ body{
     background-color: white;
 }
 
+.navbar-brand{
+  font-weight: bold !important;
+  font-family: 'Quintessential', cursive !important;
+}
+
 
 .navbar-dark .navbar-nav .nav-link {
   color : white;
