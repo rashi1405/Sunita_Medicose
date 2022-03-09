@@ -3,23 +3,25 @@ body{
     margin: 0;
     padding: 0;
     background-color: white;
-    font-family: 'Quintessential' !important;
 }
 
 .navbar-brand{
+  font-family: 'Quintessential'  !important;
   font-weight: bold !important;
 }
 
 .btn{
     background-color: red !important;
     color: white !important;
+    text-transform: uppercase;
+    font-family: 'Quintessential' , cursive !important;
 }
 
 
 .navbar-dark .navbar-nav .nav-link {
   color : white;
   font-weight: 400;
-
+  
 }
 
 .contact {
