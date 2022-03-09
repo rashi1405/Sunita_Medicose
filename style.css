@@ -1,8 +1,10 @@
+*{
+  font-family: 'Quintessential', cursive !important;
+}
+
 .navbar-brand{
   
   font-weight: bold !important;
-  
-  font-family: 'Quintessential', cursive !important;
   
 }
 
@@ -22,7 +24,6 @@ h1 ,h5 , h6 {
 
   font-weight: bold;
 
-  font-family: 'Quintessential', cursive;
 }
 
 .about {
