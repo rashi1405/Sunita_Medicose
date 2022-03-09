@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+.navbar-brand{
+  font-weight: bold !important;
+  font-family: 'Quintessential', cursive !important;
+}
+
 .navbar-dark .navbar-nav .nav-link {
     color : white;
     font-weight: 400;
