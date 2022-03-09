@@ -18,6 +18,21 @@ body{
 }
 
 
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.btn-group{
+  margin-top: 60px;
+}
+
+.next{
+  background-color: grey !important;
+  color: white !important;
+ 
+}
+
 .navbar-dark .navbar-nav .nav-link {
   color : white;
   font-weight: 400;
