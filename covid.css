@@ -6,20 +6,28 @@ body{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: white;
     text-align: center;
+    background-color:white;
 }
 
 .navbar-brand{
-  font-family: 'Quintessential'  !important;
   font-weight: bold !important;
+  font-family: 'Quintessential'  !important;
 }
 
+
+.navbar-dark .navbar-nav .nav-link {
+  color : white;
+  font-weight: 400;
+  
+}
+
+
 .btn{
-    background-color: red !important;
-    color: white !important;
-    text-transform: uppercase;
-    font-family: 'Quintessential' , cursive !important;
+  background-color: red !important;
+  color: white !important;
+  text-transform: uppercase;
+  font-family: 'Quintessential' , cursive !important;
 }
 
 
@@ -38,12 +46,6 @@ a{
  
 }
 
-.navbar-dark .navbar-nav .nav-link {
-  color : white;
-  font-weight: 400;
-  
-}
-
 .contact {
     display : flex;
     justify-content: center;
@@ -53,17 +55,18 @@ a{
   }
   
   .contact div {
-    background-color: white;
+    background-color:white ;
     border : 1px solid lightgrey;
     line-height: 30px;
     text-align: center;
     overflow-x: auto;
     box-shadow: 3px 3px 3px lightgray;
-    width : 280px;
+    width : 280px; 
     height : 340px;
     margin: 30px;
     font-size:1rem ;
     color:black;
+  
   }
 
 b{
@@ -73,7 +76,7 @@ b{
  .contact div img {
     margin: auto;
     padding: 0;
-    display : block;
+    display: block;
     width : 276px;
     height : 180px;
     margin-bottom: 10px;
@@ -97,8 +100,7 @@ b{
   text-align: center;
   color:white;
   font-size: 3rem;
-  font-style : italic ;
-    
+  font-style: italic;
 }
 
 
@@ -110,7 +112,6 @@ b{
   color: white;
 }
 
-
 @media(max-width:600px) {
   
 .image img {
@@ -119,7 +120,7 @@ b{
 
 .fnt{
   font-size: 1.3rem;
-    font-weigth :bold;
+  font-weigth :bold;
 }
 }
 
