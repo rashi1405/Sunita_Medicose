@@ -18,6 +18,11 @@
   
 }
 
+
+.nav-item a:hover{
+    color: red !important;
+  }
+
 .head{
     width: 100%;
     background-color: white;
