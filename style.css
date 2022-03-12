@@ -35,6 +35,15 @@ h1 ,h5 , h6 {
 }
 
 
+.clr:hover{
+  transform: scale(1.2) !important;
+  z-index: 2 !important;
+}
+
+.nav-item a:hover{
+  color: red !important;
+}
+
 .header {
   height: 500px;
 }
