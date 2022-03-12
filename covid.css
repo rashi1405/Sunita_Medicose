@@ -23,13 +23,27 @@ body{
 }
 
 
+.nav-item a:hover{
+  color: red !important;
+}
+
 .btn{
   background-color: red !important;
   color: white !important;
   text-transform: uppercase;
   font-family: 'Quintessential' , cursive !important;
+   cursor: pointer;
+  transition: 0.2s all;
 }
 
+.btn:hover{
+    background-color: black !important;
+    box-shadow: 0px 2px 10px 5px #97b1bf ;
+}
+
+.btn:focus{
+  outline: none;
+}
 
 a{
   text-decoration: none;
